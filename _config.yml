@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "tcgua.com"
+title: "tcgua.com"
+description: "tcgua.com - we love magic."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
@@ -30,7 +30,14 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
-
+  oleg:
+    name: Oleg
+    display_name: Oleg
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: oleg.chorny@gmail.com
+    web: https://tcgua.com
+    twitter: https://twitter.com/olegchorny
+    description: "tcgua owner"
 # Plugins
 plugins:
   - jekyll-paginate
