@@ -38,6 +38,11 @@ authors:
     web: https://tcgua.com
     twitter: https://twitter.com/olegchorny
     description: "tcgua owner"
+  judge:
+    name: Judge
+    display_name: Oleg
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    description: "L1 judge"
 # Plugins
 plugins:
   - jekyll-paginate
