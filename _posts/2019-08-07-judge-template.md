@@ -9,6 +9,7 @@ hidden: true
 ---
 
 Внимание вопрос: Какого размера Тармогойф, если на кладбище лежит Биттерблоссом?
+
 Ответ: <span class="spoiler">2/3</span>
 
 #### So how do we do spoilers?

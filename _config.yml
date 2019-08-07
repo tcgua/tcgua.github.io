@@ -40,7 +40,7 @@ authors:
     description: "tcgua owner"
   judge:
     name: Judge
-    display_name: Oleg
+    display_name: Judge
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     description: "L1 judge"
 # Plugins
