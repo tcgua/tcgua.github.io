@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to tcgua.com!"
 categories: [ Jekyll ]
-image: https://magic.wizards.com/sites/mtg/files/images/wallpaper/Z5bvzqxDOR_WAR_1920x1080.jpg
+image: https___magic.wizards.com_sites_mtg_files_images_wallpaper_Z5bvzqxDOR_WAR_1920x1080.jpg
 tags: [sticky]
 ---
 Добро пожаловать на обновленную версию нашего сайта.
