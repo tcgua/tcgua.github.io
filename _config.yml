@@ -26,7 +26,14 @@ authors:
       bio:            "mtg for fun and not for profit"
       email:          oleg.chorny@gmail.com
       twitter:        https://twitter.com/olegchorny
- 
+authors:
+    judge:
+      name:           Judge
+      site:           https://tcgua.com
+      avatar:         assets/images/avatar1.jpg
+      bio:            "Level 1 Judge"
+      email:          judge@fake.com
+      twitter:        https://twitter.com/judge
 # Defaults
 defaults:
 
