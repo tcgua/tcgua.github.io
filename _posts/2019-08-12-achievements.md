@@ -4,6 +4,7 @@ title:  "Система достижений"
 categories: [ mtg, achievements]
 image: https://magic.wizards.com/sites/mtg/files/images/wallpaper/Spike-Tournament-Grinder_UST_1920x1080_Wallpaper.jpg
 tag: [ featured ]
+author: oleg
 ---
 Играйте наши турниры и получайте промо-карты за каждое выполненное уникальное достижение. Промо-бустер за каждые пять уникальных достижений! Список достижений дополняется и обновляется:
 
