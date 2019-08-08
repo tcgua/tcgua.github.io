@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Субботние Modern турниры"
-categories: [ mtg, modern ]
+categories: [ mtg, modern, saturday, free ]
 image: https://magic.wizards.com/sites/mtg/files/images/wallpaper/Wrenn-and-Six_MH1_1920x1080.jpg
 tag: [ featured ]
 ---
