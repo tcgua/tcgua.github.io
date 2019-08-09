@@ -1,33 +1,35 @@
 ---
 layout: post
 title:  "Система достижений"
-categories: [ mtg, achievements]
+categories: [mtg, achievements]
 image: https://magic.wizards.com/sites/mtg/files/images/wallpaper/Spike-Tournament-Grinder_UST_1920x1080_Wallpaper.jpg
 tag: [ featured ]
-author: oleg
+author: [oleg, nikitasmall]
 ---
 Играйте наши турниры и получайте промо-карты за каждое выполненное уникальное достижение. Промо-бустер за каждые пять уникальных достижений! Список достижений дополняется и обновляется:
 
 - Adaptability: Play as aggro before sideboard and as control after the sideboard. Or vice versa.
 - Aggro: Cause 20 damage to your opponent in first 5 turns.
+- Alternative plan - win the game without dealing damage to your opponent
 - Archetype: Play the tournament against three different archetypes.
 - Blank: Turn one of your opponent's cards into a dead card.
 - Board Stall: Build the situation where neither player can profitably attack. And wait for your Bomb.
-- Board Sweepers: Destroy many creatures at once. 
-- Bomb: Build the deck around the card which is so powerful that it will determine the game all on its own. 
+- Board Sweepers: Destroy many creatures at once.
+- Bomb: Build the deck around the card which is so powerful that it will determine the game all on its own.
 - Bottleneck: Make the opponent bottlenecked on mana - he or she has more things to spend mana on than he or she has mana available
 - Bounce: Return own creature to your hand to save it from death.
 - Burn: Make the lethal damage to your opponent using the spells that can deal damage to players
 - Card Advantage: Trade one your card for two cards of your opponent in any way
 - Card Quality: Demonstarte how your High-Impact Cards disable opponent's Low-Impact Cards
 - Card Quantity: Play the tournmanet without any mulligans.
-- Chump Block: Win the game due to block with a creature in order to preserve your life total, even though yours will be the only creature dying in the exchange. 
+- Chump Block: Win the game due to block with a creature in order to preserve your life total, even though yours will be the only creature dying in the exchange.
+- Collect them all - declare a collection (e.g. creature type, artist, etc.) of valid MTG cards and complete it
 - Combat Trick: Affect the board state in your favor during combat phase using Instants.
 - Consistency: Build the deck using at least three modal spells, mana sinks or cards with "X" in mana cost.
 - Control: Build a deck focused on shutting down the opponent, and only wins the game later, at its own convenience.
 - Counterdraft: Spend a pick taking a card out of the draft, so no one else can have it.
 - Creature Land: Win the game using a land with the ability to become a creature.
-- Critical Mass: Build the deck around the strategy, where you don't want to trade you creatures until you build the critical mass for attacks. 
+- Critical Mass: Build the deck around the strategy, where you don't want to trade you creatures until you build the critical mass for attacks.
 - Damage Race: With tha game when neither player can take firm control of the game, and both players are trying to win the game before the other. (Also called "racing.")
 - Dead Card: Lose the game with a card in the hand which you got in your opening hand.
 - Deck Your Opponent: Force your opponent to run out of cards in his/her library and lose the game.
@@ -37,20 +39,26 @@ author: oleg
 - Elephant Method: Writing out ideal realistic lists for all matchups and then trying to make the unique cards in those lists add up to 75 cards before deciding on the specific 60 for the main deck and the specific fifteen for the sideboard.
 - Evasion: Build the deck based on evasion strategy (Flying or any other ability that makes a creature difficult to block).
 - Filler: Buid the deck with a filler in the required mana slot.
+- Flawless victory - win the game while your opponent doesn’t have a permanent under his or her control.
+- Flawless… defeat - lose the game while you don’t control any permanent.
 - Flexible: Build the deck which includes modal spell, mana sink and cards with "X" in mana cost
 - Focus: Build the deck which is focused on clear strategy and describe it to your opponent before the game. Win the game using the strategy.
+- For the greater good - have a pet deck, bring it to the tournament, win it (against all odds if needed)
 - Format-Defining: Build the deck around the format-defining card.
 - Going Through the Motions: Shake the hand to your opponent when you lost and say something good about his level of play.
 - Hate Cards: Build the sideboard with hate cards included and leverage them in game 2.
 - High-Impact Card: Build the deck with at least 4 High-Imact cards.
+- I object - stop your opponent from getting a significant advantage (e.g. combo-ing off or killing you) in one spell (e.g. removal spell into key permanent, countering the key combo piece, discarding the card turn before it kills you)
+- I see you - make a game when you know most of the opponent’s hand for most of the game time.
 - Incidental card advantage: Build the deck around the planeswalker and gain the incidental card advantage using it
 - Inevitability: Build a virtual guarantee that you will win if the game goes on indefinitely.
 - Initiative: Attack very aggressively with your creatures, bluff the opponent that you have combat tricks.
 - Investment: Build the deck with at least two ramp spells.
 - Late Stage: Win the game on turn 20 or later.
-- Line-Up Theory: Win the Aggro deck mirror match 
+- Line-Up Theory: Win the Aggro deck mirror match.
 - Linear Strategy: Trade at least 5 creatures to win the game.
 - Main Deck: End the tournament without any dead cards.
+- Make a stand - win the game with one or less HP remaining.
 - Mana Base: Build the deck with 10 or more instances of mana colors.
 - Mana Curve: Build the deck using not more than 5 cards in each mana slot .
 - Mana Efficiency: Win the game using all the mana every turn
@@ -61,7 +69,10 @@ author: oleg
 - Midrange: Win the tournament using the Midrange deck
 - Mill: Win the tournament using the Mill deck
 - Modal Spell: Build the deck with at least 3 modal spells included
+- Monastery mentor - explain the very basics of the game, play the game of magic with the newbie
 - Netdecking: Force someone to netdeck your list
+- Newcomer - get the DCI
+- No fun for you - make your cards (e.g. hate cards or locking cards) effectively defeating the opponent while the game is far from over.
 - Not a Zero-Sum Game: play three draws in a row
 - Open Color: Identify open color during the draft and build the deck in it.
 - Out: When your hand is empty, think about what card do you want to draw, name it, show to your opponent if you was lucky to draw it.
@@ -75,6 +86,7 @@ author: oleg
 - Reach: Win the game against the evasion deck using Reach creatures as efficient blockers.
 - Reactive: Build the deck to answer threats of your opponents and win the tournament.
 - Sequencing: Plan the entire turn before you even drop a land. Plan your answers during the opponent's turn. Win the game.
+- Share the packs - play a game of sealed with the newbie.
 - Sideboard: Win the game using at least 3 cards from sideboard
 - Signals: Force your opponent to draft the color which yu want him to draft.
 - Situational: Build the deck without any situational cards in it and win the tournament
@@ -87,10 +99,13 @@ author: oleg
 - Synergy: Build the tribal deck and win the tournament
 - Tempo: Board presence. Win the tempo match against another tempo deck.
 - Tier System: build your own preferred pick orders list and draft the deck where is only tier-1 and tier-2 cards. Win the tournament.
+- Traitor! - kill the opponent with his or her own permanent or spell.
 - Transformational Sideboard: change not less than 10 cards before game 2.
 - Turning the Corner: play defensively before turn 10, keeping opponent in 20 or more life. Kill him after that in just four turns.
 - Two-to-Five Lands Strategy: A basic mulligan strategy that instructs you to keep your hand if you have between two and five lands, and mulligan if you have zero, one, six, or seven lands. Win the game after such - mulligan.
 - Versatile: Win the mirror Control match
 - Virtual Card Advantage: Build the virtual card advantage by one blocker who forces your opponent to skip his attack phase even though he has more than 2 creatures on the board
+- Welcome to the fold - get the new human being into the game (let him make newcomer achievement)
 - Win Condition: Build the Control with only one creature and win a game.
-
+- You don’t kill me, I kill me! - in the losing game, don’t let the opponent's deck deal the finishing blow. Lose the game.
+- Your resistance only makes my… guts stronger - win the game through the hate cards.
