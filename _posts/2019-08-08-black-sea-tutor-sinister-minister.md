@@ -17,3 +17,4 @@ author: judge
 3. Так происходить не может, нужно позвать судью
 4. Так происходить не может, нужно позвать WWF
 
+<span class="spoiler">My hidden paragraph here.</span>
