@@ -1,8 +1,8 @@
 # Site
 name: 'tcgua.com'
 description: 'we love magic'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/U.svg'
+favicon: 'assets/images/U.ico'
 baseurl: ''
 disqus: 'tcgua'
 email: 'oleg.chorny@gmail.com'
