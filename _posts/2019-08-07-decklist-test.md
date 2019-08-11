@@ -7,77 +7,65 @@ author: judge
 ---
 test
 
-# [Deck: Mono white shutdown](https://deckstats.net/decks/137618/1378810-mono-white-shutdown) {W}{R}
+# [Deck: Azorius Flying](https://deckstats.net/decks/107317/1378557-azorius-flying) {W}{U}
 
-\# | Card Name
--- | ----
- | **Main:**
-1 | [Dovescape](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Dovescape)
-4 | [Enduring Ideal](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Enduring+Ideal)
-2 | [Form of the Dragon](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Form+of+the+Dragon)
-4 | [Leyline of Sanctity](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Leyline+of+Sanctity)
-3 | [Lotus Bloom](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Lotus+Bloom)
-1 | [Mistveil Plains](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Mistveil+Plains)
-4 | [Nykthos, Shrine to Nyx](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Nykthos%2C+Shrine+to+Nyx)
-4 | [On Thin Ice](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=On+Thin+Ice)
-4 | [Phyrexian Unlife](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Phyrexian+Unlife)
-2 | [Porphyry Nodes](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Porphyry+Nodes)
-1 | [Rest in Peace](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Rest+in+Peace)
-4 | [Runed Halo](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Runed+Halo)
-1 | [Scrying Sheets](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Scrying+Sheets)
-18 | [Snow-Covered Plains](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Snow-Covered+Plains)
-3 | [Solemnity](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Solemnity)
-4 | [Suspension Field](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Suspension+Field)
+##### Main:
 
-#### Sideboard:
-
-\# | Card Name
--- | ----
-1 | [Boseiju, Who Shelters All](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Boseiju%2C+Who+Shelters+All)
-2 | [Damping Sphere](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Damping+Sphere)
-3 | [Greater Auramancy](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Greater+Auramancy)
-1 | [Oblivion Ring](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Oblivion+Ring)
-1 | [Porphyry Nodes](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Porphyry+Nodes)
-3 | [Rest in Peace](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Rest+in+Peace)
-3 | [Stony Silence](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Stony+Silence)
-1 | [Wrath of God](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Wrath+of+God)
-
-*[Display deck statistics](https://deckstats.net/decks/137618/1378810-mono-white-shutdown)*
-
-
-# [Deck: Mono white shutdown](https://deckstats.net/decks/137618/1378810-mono-white-shutdown) {W}{R}
-
-\# | Card Name
--- | ----
- | **Main:**
-1 | [Dovescape](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Dovescape)
-4 | [Enduring Ideal](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Enduring+Ideal)
-2 | [Form of the Dragon](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Form+of+the+Dragon)
-4 | [Leyline of Sanctity](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Leyline+of+Sanctity)
-3 | [Lotus Bloom](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Lotus+Bloom)
-1 | [Mistveil Plains](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Mistveil+Plains)
-4 | [Nykthos, Shrine to Nyx](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Nykthos%2C+Shrine+to+Nyx)
-4 | [On Thin Ice](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=On+Thin+Ice)
-4 | [Phyrexian Unlife](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Phyrexian+Unlife)
-2 | [Porphyry Nodes](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Porphyry+Nodes)
-1 | [Rest in Peace](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Rest+in+Peace)
-4 | [Runed Halo](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Runed+Halo)
-1 | [Scrying Sheets](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Scrying+Sheets)
-18 | [Snow-Covered Plains](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Snow-Covered+Plains)
-3 | [Solemnity](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Solemnity)
-4 | [Suspension Field](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Suspension+Field)
+* 2 [Depose // Deploy](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Depose+%2F%2F+Deploy)
+* 2 [Dovin, Grand Arbiter](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Dovin%2C+Grand+Arbiter)
+* 4 [Empyrean Eagle](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Empyrean+Eagle)
+* 4 [Faerie Miscreant](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Faerie+Miscreant)
+* 3 [Favorable Winds](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Favorable+Winds)
+* 2 [Glacial Fortress](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Glacial+Fortress)
+* 2 [Hallowed Fountain](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Hallowed+Fountain)
+* 4 [Healer's Hawk](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Healer%27s+Hawk)
+* 8 [Island](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Island)
+* 10 [Plains](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Plains)
+* 2 [Rally of Wings](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Rally+of+Wings)
+* 4 [Sephara, Sky's Blade](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Sephara%2C+Sky%27s+Blade)
+* 2 [Siren Stormtamer](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Siren+Stormtamer)
+* 4 [Spectral Sailor](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Spectral+Sailor)
+* 2 [Teferi, Time Raveler](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Teferi%2C+Time+Raveler)
+* 2 [Tomik, Distinguished Advokist](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Tomik%2C+Distinguished+Advokist)
+* 1 [Warkite Marauder](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Warkite+Marauder)
+* 2 [Winged Words](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Winged+Words)
 
 #### Sideboard:
 
-\# | Card Name
--- | ----
-1 | [Boseiju, Who Shelters All](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Boseiju%2C+Who+Shelters+All)
-2 | [Damping Sphere](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Damping+Sphere)
-3 | [Greater Auramancy](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Greater+Auramancy)
-1 | [Oblivion Ring](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Oblivion+Ring)
-1 | [Porphyry Nodes](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Porphyry+Nodes)
-3 | [Rest in Peace](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Rest+in+Peace)
-3 | [Stony Silence](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Stony+Silence)
-1 | [Wrath of God](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Wrath+of+God)
+* 2 [Aether Gust](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Aether+Gust)
+* 1 [Baffling End](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Baffling+End)
+* 3 [Cerulean Drake](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Cerulean+Drake)
+* 2 [Devout Decree](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Devout+Decree)
+* 2 [Dovin's Veto](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Dovin%27s+Veto)
+* 2 [Hanged Executioner](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Hanged+Executioner)
+* 1 [Mu Yanling, Sky Dancer](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Mu+Yanling%2C+Sky+Dancer)
+* 2 [Time Wipe](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Time+Wipe)
 
-*[Display deck statistics](https://deckstats.net/decks/137618/1378810-mono-white-shutdown)*
+*[Display deck statistics](https://deckstats.net/decks/107317/1378557-azorius-flying)*
+
+# [Deck: Simic Flash](https://deckstats.net/decks/71852/1376707-simic-flash) {U}{G}
+
+##### Main:
+
+* 4 [Brineborn Cutthroat](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Brineborn+Cutthroat)
+* 3 [Capture Sphere](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Capture+Sphere)
+* 4 [Essence Scatter](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Essence+Scatter)
+* 3 [Faerie Duelist](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Faerie+Duelist)
+* 8 [Forest](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Forest)
+* 4 [Frilled Mystic](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Frilled+Mystic)
+* 2 [Hinterland Harbor](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Hinterland+Harbor)
+* 9 [Island](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Island)
+* 3 [Merfolk Trickster](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Merfolk+Trickster)
+* 4 [Nightpack Ambusher](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Nightpack+Ambusher)
+* 4 [Spectral Sailor](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Spectral+Sailor)
+* 2 [Syncopate](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Syncopate)
+* 4 [Temple of Mystery](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Temple+of+Mystery)
+* 4 [Unsummon](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Unsummon)
+* 2 [Veil of Summer](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Veil+of+Summer)
+
+#### Sideboard:
+
+* 2 [Essence Capture](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Essence+Capture)
+* 2 [Veil of Summer](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Veil+of+Summer)
+
+*[Display deck statistics](https://deckstats.net/decks/71852/1376707-simic-flash)*
