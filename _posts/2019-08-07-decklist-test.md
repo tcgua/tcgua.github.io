@@ -13,7 +13,7 @@ test
 .decklist .title {}
 .decklist .column {}
 .decklist .column .section {}
-.decklist .card {}
+.decklist .card { margin-right: 5px; }
 .decklist .count {	margin-right: 5px; }
 .iltt a img{
 	max-width: 233px;
