@@ -8,16 +8,53 @@ author: judge
 
 
 test
-<html>
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css"><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script><script src="//cdn.rawgit.com/NickolasReynolds/9305934/raw/ba30c0e5ddb5f56cf69dcc5e8bc5b20717936830/inlinetooltip.1.0.js"></script><script src="//cdn.rawgit.com/NickolasReynolds/9306194/raw/a23cf6c5f02d4edae8a443098e195070e6652252/inlinemtg.1.0.js"></script><div class="title"><h2>Barren Glory Combo</h2></div><div class="decklist row"><div class="column col-md-4"><h3 class="section">Enchantments</h3><div><span class="count">2</span><span class="inlinemtg card">Barren Glory</span></div><h3 class="section">Creatures</h3><div><span class="count">4</span><span class="inlinemtg card">Academy Rector</span></div><div><span class="count">4</span><span class="inlinemtg card">Simian Spirit Guide</span></div><div><span class="count">4</span><span class="inlinemtg card">Street Wraith</span></div></div><div class="column col-md-4"><h3 class="section">Spells</h3><div><span class="count">4</span><span class="inlinemtg card">Cabal Therapy</span></div><div><span class="count">4</span><span class="inlinemtg card">Dark Ritual</span></div><div><span class="count">2</span><span class="inlinemtg card">Footsteps of the Goryo</span></div><div><span class="count">4</span><span class="inlinemtg card">Gitaxian Probe</span></div><div><span class="count">4</span><span class="inlinemtg card">Infernal Tutor</span></div><div><span class="count">4</span><span class="inlinemtg card">Thoughtseize</span></div><h3 class="section">Artifacts</h3><div><span class="count">4</span><span class="inlinemtg card">Lion's Eye Diamond</span></div><div><span class="count">4</span><span class="inlinemtg card">Lotus Petal</span></div></div><div class="column col-md-4"><h3 class="section">Lands</h3><div><span class="count">4</span><span class="inlinemtg card">Ancient Spring</span></div><div><span class="count">4</span><span class="inlinemtg card">Archaeological Dig</span></div><div><span class="count">4</span><span class="inlinemtg card">Crystal Vein</span></div><div><span class="count">4</span><span class="inlinemtg card">Glimmervoid</span></div></div></div><style>.decklist {}
-.decklist .title {}
-.decklist .column {}
-.decklist .column .section {}
-.decklist .card { margin-right: 5px; }
-.decklist .count {	margin-right: 5px; }
-.iltt a img{
-	max-width: 233px;
-	max-height: 310px;
-}
-</style>
-</html>
+# [Deck: Abzan Drift](https://deckstats.net/decks/1728/1378613-abzan-drift) {W}{B}{G}
+
+\# | Card Name
+-- | ----
+ | **Creatures:**
+1 | [Archfiend of Ifnir](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Archfiend+of+Ifnir)
+4 | [Eternal Witness](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Eternal+Witness)
+2 | [Kitchen Finks](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Kitchen+Finks)
+2 | [Knight of Autumn](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Knight+of+Autumn)
+2 | [Knight of the Reliquary](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Knight+of+the+Reliquary)
+1 | [Siege Rhino](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Siege+Rhino)
+ | **Spells:**
+1 | [Abrupt Decay](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Abrupt+Decay)
+4 | [Assassin's Trophy](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Assassin%27s+Trophy)
+4 | [Edge of Autumn](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Edge+of+Autumn)
+1 | [Eldritch Evolution](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Eldritch+Evolution)
+2 | [Fatal Push](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Fatal+Push)
+3 | [Life from the Loam](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Life+from+the+Loam)
+2 | [Path to Exile](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Path+to+Exile)
+1 | [Surgical Extraction](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Surgical+Extraction)
+2 | [Unearth](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Unearth)
+ | **Enchantments:**
+3 | [Astral Drift](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Astral+Drift)
+ | **Lands:**
+3 | [Barren Moor](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Barren+Moor)
+1 | [Bojuka Bog](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Bojuka+Bog)
+2 | [Forest](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Forest)
+1 | [Ghost Quarter](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Ghost+Quarter)
+1 | [Godless Shrine](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Godless+Shrine)
+2 | [Overgrown Tomb](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Overgrown+Tomb)
+1 | [Plains](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Plains)
+2 | [Secluded Steppe](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Secluded+Steppe)
+1 | [Swamp](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Swamp)
+2 | [Temple Garden](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Temple+Garden)
+3 | [Tranquil Thicket](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Tranquil+Thicket)
+2 | [Verdant Catacombs](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Verdant+Catacombs)
+4 | [Windswept Heath](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Windswept+Heath)
+
+#### Sideboard:
+
+\# | Card Name
+-- | ----
+1 | [Abrupt Decay](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Abrupt+Decay)
+2 | [Infernal Reckoning](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Infernal+Reckoning)
+2 | [Kaya's Guile](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Kaya%27s+Guile)
+4 | [Leyline of the Void](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Leyline+of+the+Void)
+2 | [Stony Silence](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Stony+Silence)
+4 | [Thoughtseize](https://www.mtg-forum.de/db/magiccard.php?utf8=1&lng=en&card=Thoughtseize)
+
+*[Display deck statistics](https://deckstats.net/decks/1728/1378613-abzan-drift)*
