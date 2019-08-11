@@ -2,7 +2,7 @@
 layout: post
 title:  "Decklist Template"
 categories: [ mtg, judge]
-image: https://magic.wizards.com/sites/mtg/files/images/wallpaper/WP_Johnny_1280x960.jpg
+image: https://magic.wizards.com/sites/mtg/files/images/wallpaper/JaceTelepathUnbound_ORI_1920x1080_Wallpaper.jpg
 author: judge
 ---
 
