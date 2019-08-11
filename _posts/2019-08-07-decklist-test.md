@@ -9,13 +9,5 @@ author: judge
 
 test
 
-<script src="http://tappedout.net/tappedout.js"></script>
-<div class="deck-list">
-    1x Counterspell
-    99 Spell Pierce
-    Ignored line
-    9999x Island
 
-    Sideboard|sideboard|Sideboard:
-    2x Plains
-</div>
+<html><head><title>Decks Magic</title><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script><script type="text/javascript" src="http://tappedout.net/mtg-decks/szadek-edh-6/remote.js"></script><style type="text/css">.hide  display: none;</style></head><body><div id="tapped-deck-szadek-edh-6"></div></body></html>
