@@ -44,8 +44,8 @@ test
 	float: none;
 	width: inherit;
 	padding-bottom: 15px;
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-left: 2px;
+	padding-right: 2px;
 }
 
 .decklist .column:first-child {
@@ -79,7 +79,7 @@ test
 }
 
 .decklist .count {
-	margin-right: 3px;
+	margin-right: 1px;
 }
 
 * {
