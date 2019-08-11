@@ -8,5 +8,12 @@ author: judge
 test
 
 <script src="http://tappedout.net/tappedout.js"></script>
-I'd like to thank <span class="mtgcard">Phyrexian Dreadnought</span> for existing. But really <span class="mtgcard">Serra Angel [M10]</span> is my jam.
+<div class="deck-list">
+    1x Card Name
+    99 Card Name 2
+    Ignored line
+    9999x Card Name 3
 
+    Sideboard|sideboard|Sideboard:
+    2x
+</div>
