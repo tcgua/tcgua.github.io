@@ -80,6 +80,7 @@ test
 
 .decklist .count {
 	margin-right: 3px;
+    display:inline;
 }
 
 * {
