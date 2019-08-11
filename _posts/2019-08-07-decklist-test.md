@@ -7,7 +7,7 @@ author: judge
 ---
 test
 
-# [Deck: Azorius Flying](https://deckstats.net/decks/107317/1378557-azorius-flying) {W}{U}
+# [Deck: Azorius Flying](https://deckstats.net/decks/107317/1378557-azorius-flying) 
 
 ##### Main:
 
@@ -43,7 +43,7 @@ test
 
 *[Display deck statistics](https://deckstats.net/decks/107317/1378557-azorius-flying)*
 
-# [Deck: Simic Flash](https://deckstats.net/decks/71852/1376707-simic-flash) {U}{G}
+# [Deck: Simic Flash](https://deckstats.net/decks/71852/1376707-simic-flash) 
 
 ##### Main:
 
