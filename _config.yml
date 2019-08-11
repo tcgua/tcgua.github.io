@@ -57,7 +57,7 @@ highlighter: rouge
 paginate: 10
 
 kramdown:
-  parse_block_html: true
+  parse_span_html: true
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
