@@ -2,7 +2,7 @@
 layout: post
 title:  "Воскресный Team Sealed"
 categories: [ mtg, team, sealed, sunday, "11:00", 1000uah]
-image: https://magic.wizards.com/sites/mtg/files/images/wallpaper/Mu-Yanling-Sky_Dancer_M20_1920x1080_Wallpaper.jpg
+image: https://magic.wizards.com/sites/mtg/files/images/wallpaper/Chandra-Acolyte-of-Flame_M20_iPhone.jpg
 tag: [ featured ]
 author: oleg
 ---
