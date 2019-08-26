@@ -2,7 +2,7 @@
 layout: post
 title:  "Воскресный Team Sealed"
 categories: [ mtg, team, sealed, sunday, "11:00", free]
-image: https://magic.wizards.com/sites/mtg/files/images/wallpaper/Hour-of-Devastastion_HOU_1920x1080_Wallpaper.jpg
+image: https://magic.wizards.com/sites/mtg/files/images/wallpaper/Overwhelming-Splendor_HOU_1920x1080_Wallpaper.jpg
 tag: [ featured ]
 author: oleg
 ---
