@@ -2,7 +2,7 @@
 layout: post
 title:  "Воскресные Limited турниры"
 categories: [ mtg, team, sealed, sunday, "11:00", free]
-image: https://magic.wizards.com/sites/mtg/files/images/card/ru_nsl155PSdA.png
+image: https://magic.wizards.com/sites/mtg/files/images/card/ru_WHo63svw7S.png
 tag: [ featured ]
 author: oleg
 ---
