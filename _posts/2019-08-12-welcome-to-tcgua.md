@@ -2,6 +2,6 @@
 layout: post
 title:  "Welcome to tcgua.com!"
 categories: [ mtg ]
-image: https://magic.wizards.com/sites/mtg/files/images/wallpaper/Embereth-Paladin_ELD_1920x1080_Wallpaper.jpg
+image: https://media.wizards.com/2019/eld/ru_58yaJTkRNs.png
 ---
 Добро пожаловать на обновленную версию нашего сайта.
