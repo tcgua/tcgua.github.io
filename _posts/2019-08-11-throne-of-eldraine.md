@@ -3,7 +3,7 @@ layout: post
 title:  "Throne of Eldraine Booster Box Promotion"
 categories: [ mtg ]
 tags: sticky
-image: ../assets/images/throne.png
+image: ../assets/images/garruk.png
 ---
 
 Приобретайте 36 драфтовых бустеров нового сета Throne of Eldraine и получите 1 коллекционный бустер в подарок. 
