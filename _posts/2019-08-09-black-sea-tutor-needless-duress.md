@@ -10,6 +10,7 @@ author: judge
 
 <img src="https://media.wizards.com/2019/m20/ru_JfUgN6LLnC.png" alt="leuyline" width="200"/> 
 <img src="https://media.wizards.com/2018/grn/ru_tzvOTmpchE.png" alt="drake" width="200"/>
+<img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=450525&type=card" alt="nexus" width="200"/>
 
 
 А. Не сможет
