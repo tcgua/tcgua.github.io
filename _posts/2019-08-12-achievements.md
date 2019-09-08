@@ -2,8 +2,8 @@
 layout: post
 title:  "Система достижений"
 categories: [mtg, achievements]
-image: https://media.wizards.com/2019/war/jp_uejHvUjcxj.png
-## tag: [ featured ]
+image: https://magic.wizards.com/sites/mtg/files/images/wallpaper/Spike-Tournament-Grinder_UST_1920x1080_Wallpaper.jpg
+tag: [ featured ]
 author: [oleg, nikitasmall]
 ---
 Играйте наши турниры и получайте промо-карты за каждое выполненное уникальное достижение. Промо-бустер за каждые пять уникальных достижений! Список достижений дополняется и обновляется:
