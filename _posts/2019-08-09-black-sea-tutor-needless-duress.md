@@ -13,8 +13,6 @@ author: judge
 <img src="https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=450525&type=card" alt="nexus" width="200"/>
 
 
-А. Не сможет
-
-Б. Сможет
-
-В. Так происходить не может, нужно позвать судью
+1. Не сможет
+2. Сможет
+3. Так происходить не может, нужно позвать судью
