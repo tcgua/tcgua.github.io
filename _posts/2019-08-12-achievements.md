@@ -2,7 +2,8 @@
 layout: post
 title:  "Система достижений"
 categories: [mtg, achievements]
-image: https://magic.wizards.com/sites/mtg/files/images/wallpaper/Spike-Tournament-Grinder_UST_1920x1080_Wallpaper.jpg
+image:
+https://media.wizards.com/2019/war/jp_uejHvUjcxj.png
 tag: [ featured ]
 author: [oleg, nikitasmall]
 ---
