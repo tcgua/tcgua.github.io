@@ -2,6 +2,6 @@
 layout: post
 title:  "Welcome to tcgua.com!"
 categories: [ mtg ]
-image: https://media.wizards.com/2018/rna/en_GKw58pOsOU.png
+image: https://magic.wizards.com/sites/mtg/files/images/card/en_WiS6hYaVGb.png
 ---
 Добро пожаловать на обновленную версию нашего сайта.
