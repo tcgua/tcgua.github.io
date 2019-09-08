@@ -10,6 +10,5 @@ image: ../assets/images/booster-fun.png
 
 Стоимость 36 бустеров - 3000 грн. Детальнее про акцию вы можете узнать в магазине Игромания (г.Одесса, ул.Пастера,23).
 
-![](https://media.wizards.com/2019/eld/ru_Dqksw9QiiM.png) 
 ![](https://media.wizards.com/2019/eld/ru_jRDXvZQBMe.png) 
 ![](https://media.wizards.com/2019/eld/ru_pu1CyUVKNE.png) 
