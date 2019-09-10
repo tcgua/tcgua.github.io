@@ -2,7 +2,7 @@
 layout: post
 title:  "Throne of Eldraine Пререлизы"
 categories: [ mtg ]
-image: https://media.wizards.com/2019/eld/ru_jRDXvZQBMe.png
+image: ../assets/images/throne-booster.png
 ---
 Ждем вас 28 и 29 сентября в 11:00 в одесском пабе Корвин на пререлизах нового сета! Каждый игрок получит в свое распоряжение пререлизный набор из 6 бустеров и промо-карты, из которых нужно собрать колоду не менее, чем из 40 карт.
 
