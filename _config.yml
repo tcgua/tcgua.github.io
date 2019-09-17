@@ -32,6 +32,13 @@ authors:
       bio:            "Level 1 Judge"
       email:          judge@fake.com
       twitter:        https://twitter.com/judge
+    zvi:
+      name:           Zvi
+      site:           https://tcgua.com
+      avatar:         assets/images/avatar1.jpg
+      bio:            "Just playing the game"
+      email:          od.webcoder@gmail.com
+      twitter:        "#"
 # Defaults
 defaults:
 
