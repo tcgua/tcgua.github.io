@@ -2,7 +2,7 @@
 layout: post
 title:  "Throne of Eldraine Booster Box Promotion"
 categories: [ mtg ]
-tags: sticky
+# tags: sticky
 image: ../assets/images/throne-booster.png
 ---
 
