@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Субботние Modern турниры"
+title:  "Субботние Pioneer турниры"
 categories: [ mtg, modern, saturday, "12:00", free ]
-image: https://magic.wizards.com/sites/mtg/files/images/card/en_jE29wWrjBU.png
+image: https://media.wizards.com/2019/eld/en_gdXbH9tpsz.png
 tag: [ featured ]
 author: oleg
 ---
 Каждую субботу, паб Корвин, 12:00. Участие бесплатное. 
-Призы: 1 бустер Masters 25 по пикам, промо-карта за каждое выполненное уникальное достижение. Промо-бустер за каждые пять выполненных уникальных достижений.
+
+Призы - два промо-бустера по пикам, промо-карта за каждое выполненное уникальное достижение и промо-бустер за каждые пять выполненных уникальных достижений.
 
 

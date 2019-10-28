@@ -2,7 +2,7 @@
 layout: post
 title:  "Воскресные Limited турниры"
 categories: [ mtg, team, sealed, sunday, "12:00", free]
-image: https://magic.wizards.com/sites/mtg/files/images/card/ru_55umLewZmg.png
+image: https://media.wizards.com/2019/eld/en_SBufcv1cyQ.png
 author: oleg
 ---
 Каждое воскресенье, паб Корвин, 12:00. Участие бесплатное. Возможные форматы: 
