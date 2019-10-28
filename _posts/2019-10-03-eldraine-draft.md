@@ -3,7 +3,7 @@ layout: post
 title:  "Воскресные драфты"
 categories: [ mtg, Sunday, "12:00", draft ]
 tag: [ featured ]
-image: ../assets/images/garruk.png
+image: https://media.wizards.com/2019/eld/en_SBufcv1cyQ.png
 ---
 Приглашаем вас каждое воскресенье в 12:00 в одесский паб Корвин на Throne of Eldraine Draft!
 Стоимость участия вы определяете сами.

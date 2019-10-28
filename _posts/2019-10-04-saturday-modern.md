@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Субботние Pioneer турниры"
-categories: [ mtg, modern, saturday, "12:00", free ]
+categories: [ mtg, pioneer, saturday, "12:00", free ]
 image: https://media.wizards.com/2019/eld/en_gdXbH9tpsz.png
 tag: [ featured ]
 author: oleg
