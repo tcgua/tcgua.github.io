@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Magic Qualifiers отчет 1-2 день"
-categories: [ mtg, zvi]
-author: zvi
-lightbox: yes
+categories: [ mtg ]
+author: oleg
+image: https://magic.wizards.com/sites/mtg/files/images/wallpaper/Renewal_ELD_1920x1080.jpg
 ---
+Представляем вашему вниманию эксклюзивный отчет о Mythic Qualifier от Алексея Матузного.
 
 <p><span style="font-weight: 400;">26 и 27 октября я участвовал в mythic championship 3 qualifier, это турнир чем-то похожий на GP однако при этом ты сидишь дома и играешь себе в удовольствие, не парясь особо ни о чем.</span></p>
 <p><span style="font-weight: 400;">26 числа - проходит ивент для 1200 человек что прошли хотя бы 1 раз в топ-1200 мифика за 3 месяца. Можно выиграть 10 раз и 2 проиграть всего 2 раза, чтобы зайти во второй день нужно было сыграть 7-2. Я сыграл 9-2, было бы 10-1, однако игра посчитала что 4 землю за 25 карт мне не даст.</span></p>
@@ -63,4 +64,3 @@ lightbox: yes
 <p><b>Quench </b><span style="font-weight: 400;">- доп отмена, против агро дек и темпо дек;</span></p>
 <p><b>Mass Manipulation</b><span style="font-weight: 400;"> - flexible slot, так и не сыграл ниразу;</span></p>
 <p><b>Shifting Ceratops</b><span style="font-weight: 400;"> - бомба в мирроре, обычно сводится к тому кто их больше сыграет;</span></p>
-
