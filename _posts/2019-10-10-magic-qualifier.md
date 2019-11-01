@@ -3,7 +3,7 @@ layout: post
 title:  "Magic Qualifiers отчет 1-2 день"
 categories: [ mtg ]
 author: oleg
-image: https://magic.wizards.com/images/wallpaper/Renewal_ELD_1920x1080.jpg
+image: https://media.magic.wizards.com/images/wallpaper/Renewal_ELD_1920x1080.jpg
 ---
 Представляем вашему вниманию эксклюзивный отчет о Mythic Qualifier от Алексея Матузного.
 
