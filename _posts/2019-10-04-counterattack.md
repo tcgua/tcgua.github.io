@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Counterattack Standard Deck Tech"
-categories: [ mtg, pioneer, saturday, "12:00", free ]
+categories: [ mtg, arena, best-of-one, deck-tech]
 image: https://media.wizards.com/2019/eld/en_gx4FwgIg3c.png
 tag: [ featured ]
 author: oleg
